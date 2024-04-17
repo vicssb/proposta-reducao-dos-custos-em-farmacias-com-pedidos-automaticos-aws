@@ -63,10 +63,6 @@ Custo inicial: $0,00 USD <br>
 Custo mensal: $1599.4 USD<br>
 Custo total de 12 months: $19192.8 USD
 
-Amazon EC2	-	$3,89 USD<br>
-Amazon RDS for MariaDB	-	$1.385,51 USD<br>
-Amazon Textract-	$210,00 USD
-
 
 Assinatura do Responsável pelo Projeto:
 
