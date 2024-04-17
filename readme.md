@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de início do projeto]
+Data: 17/04/2024
 Empresa: Abstergo Industries 
-Responsável: [nome do responsável pelo projeto]
+Responsável: Victor Sérgio Silva Barros
 
 ## Introdução
 Este relatório apresenta o processo de **implementação de ferramentas** na empresa **Abstergo Industries**, realizado por **Victor Sérgio Silva Barros**. O objetivo do projeto foi elencar **3 serviços AWS**, com a finalidade de realizar **diminuição de custos imediatos**.
@@ -27,7 +27,7 @@ Etapa 3:
 
 
 ## Conclusão
-A implementação de ferramentas na empresa *[nome da empresa] tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação dessas ferramentas na empresa **Abstergo Industries** tem como objetivo aprimorar o suporte, reduzir custos e aumentar a eficiência e produtividade. Recomendamos a continuidade da utilização das ferramentas implementadas e a exploração de novas tecnologias para aprimorar ainda mais os processos da empresa. Além disso, consideramos a adoção de uma receita médica digital, que oferece diversos benefícios em comparação com as receitas tradicionais em papel, como maior segurança, legibilidade e facilidade de acesso.
 
 ## Anexos
 
@@ -35,4 +35,4 @@ A implementação de ferramentas na empresa *[nome da empresa] tem como esperado
 
 Assinatura do Responsável pelo Projeto:
 
-[Nome do Responsável pelo Projeto]
+Victor Sérgio Silva Barros
